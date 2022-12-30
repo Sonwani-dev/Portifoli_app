@@ -1,0 +1,77 @@
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+.p-Home.heading_1, 
+.p-Home.services_heading, 
+.p-Home.projects_head_1,
+.p-Home.slider_item_1_heading_1,
+.p-Home.slider_3_head_1,
+.p-Home.slider_head_product,
+.p-Home.slider_branding_head,
+.p-Home.slider_item_2_product,
+.p-Home.heading_blogs,
+.p-Home.designer_heading_main,
+.p-Home.testimonials_heading_1,
+.p-Home.faq_heading,
+.p-Home.footer_heading_2{
+    background: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+
+.p-Home.projects_head_1,
+.p-Home.services_heading, 
+.p-Home.projects_head_1,
+.p-Home.slider_item_1_heading_1,
+.p-Home.slider_3_head_1,
+.p-Home.slider_branding_head,
+.p-Home.slider_item_2_product,
+.p-Home.heading_blogs,
+.p-Home.testimonials_heading_1,
+.p-Home.faq_heading
+{
+    letter-spacing: 4px;
+}
+
+
+
+.p-Home.projects_main{
+    background-size: 121%;
+}
+.p-Home.list_item_1_flex,
+.p-Home.list_item_2_flex,
+.p-Home.list_item_3_flex,
+.p-Home.list_item_4_flex,
+.p-Home.list_item_5_flex
+{
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
+}
+
+.p-Home.testimonial_1_image{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.p-Home.faq_heading{
+    margin: 0 50%;
+}
+.p-Home.faq_heading_2{
+    margin: 20px 21% 0 21%;
+}
+
+.p-Home.links_grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.p-Home.webflow_div{
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 10%),
+                0 1px 3px rgb(0 0 0 / 10%);
+}
+
+.p-Home.webflow_div{
+    position: fixed;
+    top: 680px;
+    left: 1370px;
+}

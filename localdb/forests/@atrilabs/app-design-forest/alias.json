@@ -1,0 +1,19 @@
+{
+  "Div": 241,
+  "Flex": 260,
+  "Button": 11,
+  "Accordion": 1,
+  "Image": 122,
+  "Link": 85,
+  "Icon": 8,
+  "Upload": 2,
+  "Input": 2,
+  "Menu": 1,
+  "Step": 1,
+  "Rating": 1,
+  "Breadcrumb": 3,
+  "TextBox": 239,
+  "Cascader": 1,
+  "Alert": 1,
+  "Slider": 1
+}
